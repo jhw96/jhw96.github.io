@@ -1,7 +1,7 @@
 title: jhw96의 블로그
 description: 꾸준히 계속
 author: jhw96
-avatar: /profile.png
+avatar: ./assets/img/basic/profile.png
 email: ds6tvi@naver.com
 
 plugins:
@@ -27,10 +27,12 @@ exclude:
   - README.md
   - jekyll-theme-hamilton.gemspec
 
+skin: daylight
+
 # Jekyll SEO Tag (Optional)
 # =========================
 
-logo: profile.png
+logo: ./assets/img/basic/profile.png
 social:
   name: Hyeonwoong Jang
   links:
