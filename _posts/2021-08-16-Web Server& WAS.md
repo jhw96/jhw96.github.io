@@ -30,7 +30,7 @@ tags: [web, backend, interview]
   <br>
   -> 그렇다면 왜 WAS만 사용하지 않고 웹 서버도 사용하는가?
 
-<img src="https://user-images.githubusercontent.com/57614563/129556234-e768bc5e-d39b-494d-800f-3d6ad40d99f0.PNG" width="60%">
+<img src="https://user-images.githubusercontent.com/57614563/129556234-e768bc5e-d39b-494d-800f-3d6ad40d99f0.PNG" width="90%">
 
 ### \* WAS만 단독으로 사용하지 않는 이유
 
